@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+```javascript
+const Angiejimenezc = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Bootstrap],
+  tools: [Angular],
 <!--
 **Angiejimenezc/AngieJimenezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
