@@ -1,6 +1,6 @@
 ### Hi I'm Angélica 👋💻
 
-![Vivarily (5)](https://user-images.githubusercontent.com/72544391/139582879-dcbc7890-d0e4-4c15-bb2e-1274c1a9d443.png)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
