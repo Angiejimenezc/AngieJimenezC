@@ -1,7 +1,5 @@
 ### Hi I'm Angélica 👋
-https://user-images.githubusercontent.com/72544391/139578421-d195c8eb-d9c6-41bf-a9f1-56bac1a7363e.mp4
-
-)
+![Vivarily (1)](https://user-images.githubusercontent.com/72544391/139579539-a17c0603-2d71-44d9-a78e-b740eac5e2b7.png))
 ```javascript
 const Angiejimenezc = {
   pronouns: "she" | "her",
