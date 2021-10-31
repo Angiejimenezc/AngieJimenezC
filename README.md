@@ -15,7 +15,7 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: [ "Angular"],
+         js:  [ "Angular"],
          css: [ "Bootstrap", "Material Design"]
       },
       databases: ["mySQL"],      
@@ -28,6 +28,8 @@ const aboutMe = {
 
 [![Angie's github stats](https://github-readme-stats.vercel.app/api?username=AngieJimenezC&show_icons=true&theme=graywhite&hide=[%22contribs%22,%22issues%22])](https://github.com/AngieJimenezC)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em>
+
 ---
+
 ⭐️ From [@AngieJimenezC](https://github.com/AngieJimenezC)
