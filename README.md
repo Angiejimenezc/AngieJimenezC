@@ -1,5 +1,6 @@
 ### Hi I'm Angélica 👋💻
-![Vivarily (3)](https://user-images.githubusercontent.com/72544391/139580670-c41f41fb-3700-4f98-9e84-e113537c855d.png)
+
+![Vivarily (5)](https://user-images.githubusercontent.com/72544391/139582879-dcbc7890-d0e4-4c15-bb2e-1274c1a9d443.png)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
@@ -26,3 +27,9 @@ const aboutMe = {
 <br>
 
 [![Angie's github stats](https://github-readme-stats.vercel.app/api?username=AngieJimenezC&show_icons=true&theme=graywhite&hide=[%22contribs%22,%22issues%22])](https://github.com/AngieJimenezC)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@AngieJimenezC](https://github.com/AngieJimenezC)
