@@ -12,15 +12,17 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
          js:  [ "Angular"],
          css: [ "Bootstrap", "Material Design"]
+      Android Mobile Developers: {
+         android:[java]
       },
       databases: ["mySQL"],      
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Android Mobile Developer student, open to job opportunities"],
    challenge: "Find a place where I can apply my knowledge",
 };
 ```
