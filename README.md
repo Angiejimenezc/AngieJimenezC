@@ -17,7 +17,7 @@ const aboutMe = {
       frontEnd: {
          js:  [ "Angular"],
          css: [ "Bootstrap", "Material Design"]
-      Android Mobile Developers: {
+      Android: {
          android:[java]
       },
       databases: ["mySQL"],      
