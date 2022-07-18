@@ -12,7 +12,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, Typescript, HTML, CSS, Java, Spring Boot],
    technologies: {
       frontEnd: {
          js:  [ "Angular"],
@@ -20,7 +20,7 @@ const aboutMe = {
         },
       databases: ["mySQL"],      
    },
-   currentOccupation: ["Android Mobile Developer student, open to job opportunities"],
+   currentOccupation: ["Java Backend Developer student, open to job opportunities"],
    challenge: "Find a place where I can apply my knowledge",
 };
 ```
