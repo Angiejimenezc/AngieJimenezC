@@ -15,10 +15,10 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Java, Spring Boot],
    technologies: {
       frontEnd: {
-         js:  [ "Angular"],
+         js:  [ "Angular", "React"],
          css: [ "Bootstrap", "Material Design"]
         },
-      databases: ["mySQL"],      
+      databases: ["mySQL", "InfluxDB"],      
    },
    currentOccupation: ["Java Backend Developer student, open to job opportunities"],
    challenge: "Find a place where I can apply my knowledge",
