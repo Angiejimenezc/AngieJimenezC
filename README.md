@@ -12,15 +12,15 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, Typescript, HTML, CSS, Java, Spring Boot],
+   code: [Javascript, Typescript, HTML, CSS, Node.Js, Express, Java, Spring Boot],
    technologies: {
       frontEnd: {
          js:  [ "Angular", "React"],
-         css: [ "Bootstrap", "Material Design"]
+         css: [ "Bootstrap", "Tailwind", "Material Design"]
         },
       databases: ["mySQL", "InfluxDB"],      
    },
-   currentOccupation: ["Java Backend Developer student, open to job opportunities"],
+   currentOccupation: ["Java Backend Developer student"],
    challenge: "Find a place where I can apply my knowledge",
 };
 ```
