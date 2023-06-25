@@ -20,8 +20,7 @@ const aboutMe = {
         },
       databases: ["mySQL", "InfluxDB"],      
    },
-   currentOccupation: ["Java Backend Developer student"],
-   challenge: "Find a place where I can apply my knowledge",
+   currentOccupation: ["Frontend Developer"]  
 };
 ```
 <h2>💻 Some stats </h2>
