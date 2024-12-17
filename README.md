@@ -12,15 +12,19 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, Typescript, HTML, CSS, Node.Js, Express, Java, Spring Boot],
+   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "Express", "Java", "Spring Boot"],
    technologies: {
       frontEnd: {
-         js:  [ "Angular", "React"],
-         css: [ "Bootstrap", "Tailwind", "Material Design"]
-        },
-      databases: ["mySQL", "InfluxDB"],      
+         js: ["Angular", "React"],
+         css: ["Bootstrap", "Tailwind", "Material Design"]
+      },
+      backEnd: {
+         tools: ["Node.js", "Spring Boot"]
+      },
+      databases: ["MySQL", "SQL"],
+      analytics: ["Power BI"]
    },
-   currentOccupation: ["Frontend Developer"]  
+   currentOccupation: ["Full Stack Developer"]
 };
 ```
 <h2>💻 Some stats </h2>
